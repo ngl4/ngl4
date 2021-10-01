@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### Welcome to my space! 😄
+
+🔭 I’m currently working on a side project - JXT - Job Tracking App
+🌱 I’m currently learning DSA
+
+
 <!--
 **ngl4/ngl4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
