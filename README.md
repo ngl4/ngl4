@@ -2,8 +2,8 @@
 
 #### Welcome to my space! 😄
 
-🔭 I’m currently working on a side project - JXT - Job Tracking App
-🌱 I’m currently learning DSA
+- 🔭 I’m currently working on a side project - JXT - Job Tracking App
+- 🌱 I’m currently learning DSA
 
 
 <!--
