@@ -3,7 +3,7 @@
 #### Welcome to my space! 😄
 
 - 🔭 I’m currently working on a side project - JXT - Job Tracking App
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently relearning fullstack development 
 
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
 
