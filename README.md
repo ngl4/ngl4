@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on a side project - JXT - Job Tracking App
 - 🌱 I’m currently relearning fullstack development 
+- 💬 Ask/Test me about JavaScript! 
 
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
 
