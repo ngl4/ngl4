@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a side project - JXT - Job Tracking App
 - 🌱 I’m currently relearning fullstack development 
 - 💬 Ask/Test me about any web dev related! 
-- 📝 Recent Blog Posts: 
+- 📝 Blog Posts in Web Dev: 
   - [CDS 2021: CSS, Layout, UI Workshops' Resources](https://dev.to/ngl4/css-layout-ui-2a66)
   - [Setting up Passport.js Google OAuth2.0: Possible Causes of Internal Server Error](https://dev.to/ngl4/setting-up-passportjs-google-oauth20-possible-causes-of-internal-server-error-2i33)
 
