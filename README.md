@@ -8,6 +8,7 @@
 - 📝 Blog Posts in Web Dev: 
   - [CDS 2021: CSS, Layout, UI Workshops' Resources](https://dev.to/ngl4/css-layout-ui-2a66)
   - [Setting up Passport.js Google OAuth2.0: Possible Causes of Internal Server Error](https://dev.to/ngl4/setting-up-passportjs-google-oauth20-possible-causes-of-internal-server-error-2i33)
+  - [Exercism CLI Setup & Install JavaScript locally: Possible Errors on a Mac](https://dev.to/ngl4/exercism-cli-setup-install-javascript-locally-possible-errors-on-a-mac-j66)
 
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
 
