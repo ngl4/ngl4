@@ -3,7 +3,7 @@
 #### Welcome to my space! 😄
 
 - 🔭 I’m currently working on a side project - JXT - Job Tracking App
-- 🌱 I’m currently re-learning Front-end and Full-stack Development through Exercism and FreeCodeCamp. My progress can be tracked [here](https://twitter.com/BCStory2).
+- 🌱 I’m currently re-learning Front-end and Full-stack Development through Exercism and FreeCodeCamp. Feel free to take a look at my progress [here](https://twitter.com/BCStory2).
 - 💬 Ask/Test me about any web dev related! 
 - 📝 Blog Posts in Web Dev: 
   - [CDS 2021: CSS, Layout, UI Workshops' Resources](https://dev.to/ngl4/css-layout-ui-2a66)
