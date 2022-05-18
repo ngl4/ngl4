@@ -12,8 +12,8 @@
   - [Exercism CLI Setup & Install JavaScript locally: Possible Errors on a Mac](https://dev.to/ngl4/exercism-cli-setup-install-javascript-locally-possible-errors-on-a-mac-j66)
   - [JavaScript: Do you know? Documentation Series](https://dev.to/ngl4/welcome-3n4b)
 
-![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
-
+<!-- ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
+ -->
 
 
 <!--
