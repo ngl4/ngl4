@@ -2,9 +2,9 @@
 
 #### Welcome to my space! 😄
 
-- 🔭 I’m currently working on a side project - JXT - Job Tracking App
-- 🌱 I’m currently a Frontend Engineering Fellow at Formation. 
-- 💪🏼 Feel free to take a look at my daily progress [here](https://twitter.com/BCStory2).
+- 🔭 I’m currently working on a side project - [JXT](https://github.com/ngl4/JXT_v1.0) - Job Tracking App, and visit [here](https://jxt-app-v1.herokuapp.com/) to try out this product. 
+- 🌱 I’m currently a Frontend Engineering Fellow at Formation and read more on my journey [here](https://github.com/ngl4/formation_journey). 
+- 💪🏼 Feel free to take a look at my daily progress on Twitter [here](https://twitter.com/BCStory2).
 - 💬 Ask/Test me about any web dev related! 
 - 📝 Blog Posts in Web Dev: 
   - [CDS 2021: CSS, Layout, UI Workshops' Resources](https://dev.to/ngl4/css-layout-ui-2a66)
@@ -12,8 +12,8 @@
   - [Exercism CLI Setup & Install JavaScript locally: Possible Errors on a Mac](https://dev.to/ngl4/exercism-cli-setup-install-javascript-locally-possible-errors-on-a-mac-j66)
 <!--   - [JavaScript: Do you know? Documentation Series](https://dev.to/ngl4/welcome-3n4b) -->
 
-<!-- ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
- -->
+![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
+
 
 
 <!--
