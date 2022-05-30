@@ -14,8 +14,6 @@
 
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngl4&show_icons=true&theme=tokyonight)
 
-
-
 <!--
 **ngl4/ngl4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
