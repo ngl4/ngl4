@@ -2,8 +2,9 @@
 
 #### Welcome to my space! 😄
 
-- 🔭 I’m currently working on a side project - [JXT](https://github.com/ngl4/JXT_v1.0) - Job Tracking App, and visit [here](https://jxt-app-v1.herokuapp.com/) to try out this product. 
-- 🌱 I’m currently a Frontend Engineering Fellow at Formation and read more on my journey [here](https://github.com/ngl4/formation_journey). 
+- 💼 I'm a Frontend Software Engineer at Intuit 
+- 🔭 I’m working on a side project (will get back to this soon!) - [JXT](https://github.com/ngl4/JXT_v1.0) - Job Tracking App.
+- 🌱 I was a Frontend Engineering Fellow at Formation and feel free to read more on my journey [here](https://github.com/ngl4/formation_journey). 
 - 💪🏼 Feel free to take a look at my daily progress on Twitter [here](https://twitter.com/BCStory2).
 - 💬 Ask/Test me about any web dev related! 
 - 📝 Blog Posts in Web Dev: 
